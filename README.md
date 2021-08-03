@@ -3,6 +3,7 @@ First project with Stepik
 
 ## Установка
 1) Установите библиотеки из файла requirements.txt:
+   
    Для Windows:
    ```sh
    pip install -r requirements.txt
@@ -13,6 +14,7 @@ First project with Stepik
    ```
 
 2) Для запуска проекта перейдите в корневую директорию и выполните:
+   
    Для Windows:
    ```sh
    python manage.py runserver
